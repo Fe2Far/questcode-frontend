@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DEV
 Criar aplicação via Facebook create-react-app  
 Configurar o CDNs:  
@@ -2512,3 +2513,7 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# questcode-frontend
+Curso Udemy QuestCode
+>>>>>>> 719d695c0c5d391fb6c6dd6f29c94b85b5fcb572
